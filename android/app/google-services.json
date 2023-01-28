@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "716228904741",
+    "project_id": "trend-heist-aacc1",
+    "storage_bucket": "trend-heist-aacc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716228904741:android:2f5e0e4cbbed6c12b87ccc",
+        "android_client_info": {
+          "package_name": "com.example.th"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716228904741-02o6apd4env5nibmetul0jeqfva8gbld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZzv42XUcyhd-q8wxG8G8Ei_Pbmb3es14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716228904741-02o6apd4env5nibmetul0jeqfva8gbld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

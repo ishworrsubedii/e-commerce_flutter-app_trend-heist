@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190271909176",
+    "project_id": "trendheist",
+    "storage_bucket": "trendheist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190271909176:android:de7373180c707887ede5cd",
+        "android_client_info": {
+          "package_name": "com.example.th"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190271909176-df876o9ombqgvok9b8s0uk2e06df20av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI4Dv4TiFNcxM-H1zoqetYScRpfGJxcw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190271909176-df876o9ombqgvok9b8s0uk2e06df20av.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
