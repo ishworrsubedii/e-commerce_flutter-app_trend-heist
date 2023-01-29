@@ -113,26 +113,7 @@ class _OrderDisplayState extends State<OrderDisplay> {
       ),
     
 
-      // body: StreamBuilder(
-      //   builder: (context,
-      //       AsyncSnapshot<QuerySnapshot<Map<String, dynamic>>> snapshot) {
-      //     switch (snapshot.connectionState) {
-      //       case ConnectionState.active:
-      //         return ListView.builder(
-      //           itemBuilder: (context, index) {
-      //             return SummaryPage(
-      //               snap: snapshot.data!.docs[index].data(),
-      //             );
-      //           },
-      //           itemCount: snapshot.data!.docs.length,
-      //         );
-      //     }
-      //     return CircularProgressIndicator();
-      //   },
-      //   stream: FirebaseFirestore.instance
-      //       .collection("OrderCollection")
-      //       .snapshots(),
-      // ),
+      
       bottomNavigationBar: BottomAppBar(
         shape: const CircularNotchedRectangle(),
         notchMargin: 10,
